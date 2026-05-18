@@ -1,0 +1,14 @@
+{
+  "icons": {
+    "Gemini": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/gemini.png",
+    "OpenAI": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/openai.png",
+    "Claude": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/anthropic.png",
+    "Perplexity": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/perplexity.png",
+    "Dola": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/dola.png",
+    "YouMind": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/youmind.png",
+    "Podwise": "https://podwise.ai/favicon.ico",
+    "Bloomberg": "https://www.bloomberg.com/favicon.ico",
+    "New_York_Times": "https://a.web-assets.nytimes.com/a/favicon.ico",
+    "PikPak": "https://www.mypikpak.com/favicon.ico"
+  }
+}
