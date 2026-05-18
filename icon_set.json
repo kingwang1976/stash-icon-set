@@ -1,46 +1,46 @@
 {
-  "name": "AI Applications Icon Set for Stash",
+  "name": "AI Applications Icon Set for Stash v2",
   "description": "AI applications and services icons for Stash proxy groups.",
   "icons": [
     {
       "name": "Gemini",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/gemini.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemini.png"
     },
     {
       "name": "OpenAI",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/openai.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/openai.png"
     },
     {
       "name": "ChatGPT",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/openai.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/openai.png"
     },
     {
       "name": "Claude",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/anthropic.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/claude.png"
     },
     {
       "name": "Claude AI",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/anthropic.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/claude.png"
     },
     {
       "name": "Perplexity",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/perplexity.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/perplexity.png"
     },
     {
       "name": "Perplexity AI",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/perplexity.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/perplexity.png"
     },
     {
       "name": "Dola",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/dola.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/doubao.png"
     },
     {
       "name": "YouMind",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/youmind.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/youmind.png"
     },
     {
       "name": "Youmind",
-      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/youmind.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/youmind.png"
     },
     {
       "name": "Podwise",
@@ -52,11 +52,11 @@
     },
     {
       "name": "New_York_Times",
-      "url": "https://a.web-assets.nytimes.com/a/favicon.ico"
+      "url": "https://dl.svgcdn.com/png/simple-icons/newyorktimes-400.png"
     },
     {
       "name": "纽约时报",
-      "url": "https://a.web-assets.nytimes.com/a/favicon.ico"
+      "url": "https://dl.svgcdn.com/png/simple-icons/newyorktimes-400.png"
     },
     {
       "name": "PikPak",
