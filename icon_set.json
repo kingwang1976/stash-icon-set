@@ -1,14 +1,70 @@
 {
-  "icons": {
-    "Gemini": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/gemini.png",
-    "OpenAI": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/openai.png",
-    "Claude": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/anthropic.png",
-    "Perplexity": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/perplexity.png",
-    "Dola": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/dola.png",
-    "YouMind": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/youmind.png",
-    "Podwise": "https://podwise.ai/favicon.ico",
-    "Bloomberg": "https://www.bloomberg.com/favicon.ico",
-    "New_York_Times": "https://a.web-assets.nytimes.com/a/favicon.ico",
-    "PikPak": "https://www.mypikpak.com/favicon.ico"
-  }
+  "name": "AI Applications Icon Set for Stash",
+  "description": "AI applications and services icons for Stash proxy groups.",
+  "icons": [
+    {
+      "name": "Gemini",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/gemini.png"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/openai.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/openai.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/anthropic.png"
+    },
+    {
+      "name": "Claude AI",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/anthropic.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/perplexity.png"
+    },
+    {
+      "name": "Perplexity AI",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/perplexity.png"
+    },
+    {
+      "name": "Dola",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/dola.png"
+    },
+    {
+      "name": "YouMind",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/youmind.png"
+    },
+    {
+      "name": "Youmind",
+      "url": "https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/dark/youmind.png"
+    },
+    {
+      "name": "Podwise",
+      "url": "https://podwise.ai/favicon.ico"
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/favicon.ico"
+    },
+    {
+      "name": "New_York_Times",
+      "url": "https://a.web-assets.nytimes.com/a/favicon.ico"
+    },
+    {
+      "name": "纽约时报",
+      "url": "https://a.web-assets.nytimes.com/a/favicon.ico"
+    },
+    {
+      "name": "PikPak",
+      "url": "https://www.mypikpak.com/favicon.ico"
+    },
+    {
+      "name": "pikpak",
+      "url": "https://www.mypikpak.com/favicon.ico"
+    }
+  ]
 }
