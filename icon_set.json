@@ -1,10 +1,10 @@
 {
-  "name": "AI Applications Icon Set for Stash v2",
-  "description": "AI applications and services icons for Stash proxy groups.",
+  "name": "AI Applications Icon Set for Stash v3 Color",
+  "description": "AI applications and services icons for Stash proxy groups, using color variants where available.",
   "icons": [
     {
       "name": "Gemini",
-      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemini.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemini-color.png"
     },
     {
       "name": "OpenAI",
@@ -16,23 +16,23 @@
     },
     {
       "name": "Claude",
-      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/claude.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/claude-color.png"
     },
     {
       "name": "Claude AI",
-      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/claude.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/claude-color.png"
     },
     {
       "name": "Perplexity",
-      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/perplexity.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/perplexity-color.png"
     },
     {
       "name": "Perplexity AI",
-      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/perplexity.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/perplexity-color.png"
     },
     {
       "name": "Dola",
-      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/doubao.png"
+      "url": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/doubao-color.png"
     },
     {
       "name": "YouMind",
